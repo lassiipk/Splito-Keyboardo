@@ -1,0 +1,138 @@
+** Drc report for SAIM-Chan.kicad_pcb **
+** Created on 2026-03-26T02:26:46+0500 **
+
+** Found 35 DRC violations **
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4960 mm)
+    Rule: board setup constraints edge; error
+    @(161.0300 mm, 55.1100 mm): Polygon on Edge.Cuts
+    @(229.7590 mm, 55.7060 mm): Track [ROW0_L] on B.Cu, length 2.7999 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4960 mm)
+    Rule: board setup constraints edge; error
+    @(161.0300 mm, 55.1100 mm): Polygon on Edge.Cuts
+    @(224.4400 mm, 61.0250 mm): Track [ROW0_L] on B.Cu, length 7.5222 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4960 mm)
+    Rule: board setup constraints edge; error
+    @(161.0300 mm, 55.1100 mm): Polygon on Edge.Cuts
+    @(168.2600 mm, 55.9050 mm): Track [COL0_L] on F.Cu, length 0.2814 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4960 mm)
+    Rule: board setup constraints edge; error
+    @(161.0300 mm, 55.1100 mm): Polygon on Edge.Cuts
+    @(168.4590 mm, 55.7060 mm): Track [COL0_L] on F.Cu, length 64.0999 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4950 mm)
+    Rule: board setup constraints edge; error
+    @(161.0300 mm, 55.1100 mm): Polygon on Edge.Cuts
+    @(168.2600 mm, 55.9050 mm): Via [COL0_L] on F.Cu - B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3478 mm)
+    Rule: board setup constraints edge; error
+    @(161.0300 mm, 55.1100 mm): Polygon on Edge.Cuts
+    @(269.7350 mm, 42.2750 mm): Pad [<no net>] of SW1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3518 mm)
+    Rule: board setup constraints edge; error
+    @(161.0300 mm, 55.1100 mm): Polygon on Edge.Cuts
+    @(269.7350 mm, 49.6750 mm): Pad [<no net>] of SW1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4490 mm)
+    Rule: board setup constraints edge; error
+    @(13.7800 mm, 140.0900 mm): Polygon on Edge.Cuts
+    @(157.2800 mm, 127.7900 mm): Pad 2 [Net-(D65-A)] of S65 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4550 mm)
+    Rule: board setup constraints edge; error
+    @(13.7800 mm, 140.0900 mm): Polygon on Edge.Cuts
+    @(157.2800 mm, 110.7900 mm): Pad 2 [Net-(D54-A)] of S54 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4101 mm)
+    Rule: board setup constraints edge; error
+    @(13.7800 mm, 140.0900 mm): Polygon on Edge.Cuts
+    @(6.7700 mm, 49.6100 mm): Pad [<no net>] of SW2 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4100 mm)
+    Rule: board setup constraints edge; error
+    @(13.7800 mm, 140.0900 mm): Polygon on Edge.Cuts
+    @(6.7700 mm, 42.2100 mm): Pad [<no net>] of SW2 on B.Cu
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(161.0300 mm, 55.1100 mm): Polygon on Edge.Cuts
+    @(160.0300 mm, 65.6050 mm): Arc of B1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(161.0300 mm, 55.1100 mm): Polygon on Edge.Cuts
+    @(160.0300 mm, 61.6050 mm): Arc of B1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(161.0300 mm, 55.1100 mm): Polygon on Edge.Cuts
+    @(160.0300 mm, 99.6050 mm): Arc of B2 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(161.0300 mm, 55.1100 mm): Polygon on Edge.Cuts
+    @(160.0300 mm, 95.6050 mm): Arc of B2 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(161.0300 mm, 55.1100 mm): Polygon on Edge.Cuts
+    @(160.0300 mm, 133.6050 mm): Arc of B3 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(161.0300 mm, 55.1100 mm): Polygon on Edge.Cuts
+    @(160.0300 mm, 129.6050 mm): Arc of B3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(267.1350 mm, 42.6750 mm): Segment of SW1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(267.1350 mm, 49.2750 mm): Segment of SW1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(269.9850 mm, 42.6750 mm): Segment of SW1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(269.9850 mm, 45.9750 mm): Segment of SW1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(269.9850 mm, 45.9750 mm): Segment of SW1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(19.1200 mm, 43.6600 mm): Segment of J2 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(258.0600 mm, 48.2450 mm): Segment of J1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(6.5200 mm, 45.9100 mm): Segment of SW2 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(6.5200 mm, 45.9100 mm): Segment of SW2 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(6.5200 mm, 49.2100 mm): Segment of SW2 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(9.3700 mm, 42.6100 mm): Segment of SW2 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(9.3700 mm, 49.2100 mm): Segment of SW2 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(258.5510 mm, 55.2590 mm): Segment of S6 on B.Silkscreen
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(261.2980 mm, 55.2590 mm): Segment of S6 on B.Silkscreen
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+    @(257.6140 mm, 56.1960 mm): Segment of S6 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(239.6140 mm, 56.1960 mm): Segment of S5 on B.Silkscreen
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+    @(240.5510 mm, 55.2590 mm): Segment of S5 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(243.2980 mm, 55.2590 mm): Segment of S5 on B.Silkscreen
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

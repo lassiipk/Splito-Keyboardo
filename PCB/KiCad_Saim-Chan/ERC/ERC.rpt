@@ -1,0 +1,14 @@
+ERC report (2026-03-04T10:28:59+0500, Encoding UTF8)
+
+***** Sheet /
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(4250 mils, 3600 mils): Symbol Display_01 Pin 3 [SCL, Input, Clock]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(4250 mils, 3800 mils): Symbol Display_01 Pin 1 [GND, Power input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(6250 mils, 3600 mils): Symbol Display_02 Pin 3 [SCL, Input, Clock]
+
+ ** ERC messages: 3  Errors 3  Warnings 0

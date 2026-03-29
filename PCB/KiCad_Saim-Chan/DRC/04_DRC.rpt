@@ -1,0 +1,43 @@
+** Drc report for SAIM-Chan.kicad_pcb **
+** Created on 2026-03-26T03:25:13+0500 **
+
+** Found 9 DRC violations **
+[invalid_outline]: Board has malformed outline (arc has null or very small size: 811 nm)
+    Local override; error
+    @(-2147.4835 mm, 55.2100 mm): Arc on Edge.Cuts
+[invalid_outline]: Board has malformed outline (arc has null or very small size: 530 nm)
+    Local override; error
+    @(-2147.4835 mm, 55.1500 mm): Arc on Edge.Cuts
+[invalid_outline]: Board has malformed outline (arc has null or very small size: 648 nm)
+    Local override; error
+    @(-2147.4835 mm, 48.9400 mm): Arc on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(-2147.4835 mm, 48.9400 mm): Arc on Edge.Cuts
+    @(5.9100 mm, 48.9397 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(-2147.4835 mm, 55.2100 mm): Arc on Edge.Cuts
+    @(270.5400 mm, 55.2104 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(269.0308 mm, 38.2200 mm): Arc on Edge.Cuts
+    @(238.5000 mm, 36.7200 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(5.9006 mm, 70.5894 mm): Segment on Edge.Cuts
+    @(-2147.4835 mm, 48.9400 mm): Arc on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(12.0291 mm, 87.5817 mm): Arc on Edge.Cuts
+    @(18.0317 mm, 89.0883 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(10.5291 mm, 87.5825 mm): Segment on Edge.Cuts
+    @(12.0291 mm, 87.5817 mm): Arc on Edge.Cuts
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

@@ -1,0 +1,151 @@
+** Drc report for SAIM-Chan.kicad_pcb **
+** Created on 2026-03-26T03:17:57+0500 **
+
+** Found 39 DRC violations **
+[invalid_outline]: Board has malformed outline (arc has null or very small size: 811 nm)
+    Local override; error
+    @(-2147.4835 mm, 55.2100 mm): Arc on Edge.Cuts
+[invalid_outline]: Board has malformed outline (arc has null or very small size: 530 nm)
+    Local override; error
+    @(-2147.4835 mm, 55.1500 mm): Arc on Edge.Cuts
+[invalid_outline]: Board has malformed outline (arc has null or very small size: 648 nm)
+    Local override; error
+    @(-2147.4835 mm, 48.9400 mm): Arc on Edge.Cuts
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(7.4100 mm, 38.1000 mm): Arc on Edge.Cuts
+    @(6.0900 mm, 36.7600 mm): Segment of U2 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(7.4100 mm, 38.1000 mm): Arc on Edge.Cuts
+    @(6.0900 mm, 36.7600 mm): Segment of U2 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(38.1000 mm, 38.1000 mm): Arc on Edge.Cuts
+    @(39.3900 mm, 36.7600 mm): Segment of U2 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(7.4100 mm, 38.1000 mm): Arc on Edge.Cuts
+    @(6.0900 mm, 36.7600 mm): Segment of U2 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(7.4100 mm, 38.1000 mm): Arc on Edge.Cuts
+    @(39.3900 mm, 36.7600 mm): Segment of U2 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(38.1000 mm, 38.1000 mm): Arc on Edge.Cuts
+    @(39.3900 mm, 36.7600 mm): Segment of U2 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(238.5000 mm, 38.2200 mm): Arc on Edge.Cuts
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(238.5000 mm, 38.2200 mm): Arc on Edge.Cuts
+    @(270.4150 mm, 36.8250 mm): Segment of U1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(-2147.4835 mm, 55.2100 mm): Arc on Edge.Cuts
+    @(270.4150 mm, 55.1250 mm): Segment of U1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(238.5000 mm, 38.2200 mm): Arc on Edge.Cuts
+    @(237.1150 mm, 36.8250 mm): Segment of U1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(238.5000 mm, 38.2200 mm): Arc on Edge.Cuts
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(-2147.4835 mm, 55.2100 mm): Arc on Edge.Cuts
+    @(270.4150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(159.0300 mm, 65.6100 mm): Segment on Edge.Cuts
+    @(160.0300 mm, 65.6050 mm): Arc of B1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(159.0300 mm, 61.6000 mm): Segment on Edge.Cuts
+    @(160.0300 mm, 61.6050 mm): Arc of B1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(161.0300 mm, 129.6100 mm): Segment on Edge.Cuts
+    @(160.0300 mm, 99.6050 mm): Arc of B2 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(159.0300 mm, 65.6100 mm): Segment on Edge.Cuts
+    @(160.0300 mm, 95.6050 mm): Arc of B2 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(159.0300 mm, 133.5900 mm): Segment on Edge.Cuts
+    @(160.0300 mm, 133.6050 mm): Arc of B3 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(160.0300 mm, 129.6100 mm): Arc on Edge.Cuts
+    @(160.0300 mm, 129.6050 mm): Arc of B3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(267.1350 mm, 42.6750 mm): Segment of SW1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(267.1350 mm, 49.2750 mm): Segment of SW1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(269.9850 mm, 42.6750 mm): Segment of SW1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(269.9850 mm, 45.9750 mm): Segment of SW1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(269.9850 mm, 45.9750 mm): Segment of SW1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(19.1200 mm, 43.6600 mm): Segment of J2 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(258.0600 mm, 48.2450 mm): Segment of J1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(6.5200 mm, 45.9100 mm): Segment of SW2 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(6.5200 mm, 45.9100 mm): Segment of SW2 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(6.5200 mm, 49.2100 mm): Segment of SW2 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(9.3700 mm, 42.6100 mm): Segment of SW2 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(9.3700 mm, 49.2100 mm): Segment of SW2 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(258.5510 mm, 55.2590 mm): Segment of S6 on B.Silkscreen
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(261.2980 mm, 55.2590 mm): Segment of S6 on B.Silkscreen
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+    @(257.6140 mm, 56.1960 mm): Segment of S6 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(239.6140 mm, 56.1960 mm): Segment of S5 on B.Silkscreen
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+    @(240.5510 mm, 55.2590 mm): Segment of S5 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(243.2980 mm, 55.2590 mm): Segment of S5 on B.Silkscreen
+    @(237.1150 mm, 55.1250 mm): Segment of U1 on B.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
