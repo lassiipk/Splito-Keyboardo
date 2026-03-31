@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SAIM-Chan.kicad_pro",
+    "filename": "SAIM-Chan_Right-Half.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "CAD/Spito-Keyboardo_Left-Half.step",
+      "step": "CAD/Spito-Keyboardo_Right-Half.step",
       "svg": "",
       "vrml": ""
     },
