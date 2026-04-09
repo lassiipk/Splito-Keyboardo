@@ -6110,7 +6110,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 257.81 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6192,7 +6192,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 257.81 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -6276,7 +6276,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 31.75 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -6360,7 +6360,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 209.55 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -6442,7 +6442,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 219.71 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6526,7 +6526,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 234.95 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -6610,7 +6610,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 285.75 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -6692,7 +6692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_3.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_3.00u"
 			(at 67.31 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6854,7 +6854,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 196.85 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -6938,7 +6938,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 234.95 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -7019,7 +7019,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 219.71 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -7103,7 +7103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 57.15 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -7185,7 +7185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 80.01 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -7269,7 +7269,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 209.55 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -7351,7 +7351,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 219.71 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -7433,7 +7433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 16.51 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -7517,7 +7517,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 57.15 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -7599,7 +7599,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 245.11 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -7683,7 +7683,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 260.35 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -7767,7 +7767,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 82.55 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -7851,7 +7851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 19.05 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -7935,7 +7935,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 247.65 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -8019,7 +8019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 260.35 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -8103,7 +8103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 234.95 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -8185,7 +8185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 207.01 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8269,7 +8269,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 247.65 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -8429,7 +8429,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 234.95 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -8513,7 +8513,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 82.55 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -8597,7 +8597,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -8678,7 +8678,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "OLED_128x32:OLED_128x32"
+		(property "Footprint" "ScottoKeebs_Components:OLED_128x32"
 			(at 110.49 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -8768,7 +8768,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 19.05 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -8926,7 +8926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 67.31 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -9008,7 +9008,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 219.71 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -9090,7 +9090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.50u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.50u"
 			(at 16.51 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9174,7 +9174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 196.85 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -9256,7 +9256,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 54.61 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -9338,7 +9338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 80.01 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9422,7 +9422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 273.05 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -9506,7 +9506,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 69.85 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -9590,7 +9590,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 196.85 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -9672,7 +9672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.25u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.25u"
 			(at 16.51 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9756,7 +9756,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 31.75 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -9838,7 +9838,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 270.51 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9922,7 +9922,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 209.55 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -10004,7 +10004,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 41.91 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10169,7 +10169,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 19.05 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -10251,7 +10251,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 29.21 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -10333,7 +10333,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 54.61 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -10415,7 +10415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 194.31 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -10497,7 +10497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 54.61 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -10579,7 +10579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 67.31 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -10661,7 +10661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.50u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.50u"
 			(at 257.81 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -10828,7 +10828,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 273.05 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -10912,7 +10912,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 19.05 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -10994,7 +10994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 41.91 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -11074,7 +11074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Nice_Nano_v2:Nice_Nano_V2"
+		(property "Footprint" "ScottoKeebs_MCU:Nice_Nano_V2"
 			(at 114.3 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -11233,7 +11233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 209.55 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -11315,7 +11315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 207.01 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -11399,7 +11399,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 196.85 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -11559,7 +11559,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 273.05 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -11794,7 +11794,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 57.15 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -11878,7 +11878,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 222.25 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -11960,7 +11960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 29.21 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -12044,7 +12044,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 57.15 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -12126,7 +12126,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 257.81 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -12208,7 +12208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 67.31 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -12289,7 +12289,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_3.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_3.00u"
 			(at 194.31 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -12373,7 +12373,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 44.45 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -12455,7 +12455,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 270.51 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -12537,7 +12537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 194.31 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -12619,7 +12619,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 207.01 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -12703,7 +12703,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 82.55 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -12787,7 +12787,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 31.75 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -12869,7 +12869,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 232.41 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -12951,7 +12951,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 41.91 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13032,7 +13032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 257.81 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13116,7 +13116,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 19.05 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -13278,7 +13278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 245.11 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -13362,7 +13362,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 44.45 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -13750,7 +13750,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 69.85 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -13832,7 +13832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 29.21 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -13916,7 +13916,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 247.65 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -14078,7 +14078,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 80.01 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -14238,7 +14238,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 222.25 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -14319,7 +14319,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 245.11 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14401,7 +14401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.25u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.25u"
 			(at 283.21 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -14481,7 +14481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Nice_Nano_v2:Nice_Nano_V2"
+		(property "Footprint" "ScottoKeebs_MCU:Nice_Nano_V2"
 			(at 165.1 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -14637,7 +14637,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 207.01 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14721,7 +14721,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 57.15 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -14803,7 +14803,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 41.91 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -14887,7 +14887,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 222.25 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -14969,7 +14969,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 194.31 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -15053,7 +15053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 209.55 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -15135,7 +15135,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 29.21 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -15219,7 +15219,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 44.45 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -15377,7 +15377,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 80.01 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -15459,7 +15459,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 207.01 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -15541,7 +15541,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 194.31 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -15625,7 +15625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 260.35 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -15707,7 +15707,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 232.41 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -15867,7 +15867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.75u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.75u"
 			(at 16.51 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -15951,7 +15951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 44.45 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -16033,7 +16033,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 232.41 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -16114,7 +16114,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "OLED_128x32:OLED_128x32"
+		(property "Footprint" "ScottoKeebs_Components:OLED_128x32"
 			(at 161.29 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -16204,7 +16204,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 82.55 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -16362,7 +16362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 54.61 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -16522,7 +16522,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 247.65 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -16606,7 +16606,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 44.45 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -16688,7 +16688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 270.51 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -16772,7 +16772,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 31.75 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -16854,7 +16854,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 219.71 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -16938,7 +16938,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 69.85 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -17022,7 +17022,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 31.75 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -17104,7 +17104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 245.11 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -17264,7 +17264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 222.25 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -17348,7 +17348,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 273.05 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -17432,7 +17432,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 234.95 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -17516,7 +17516,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 69.85 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -17598,7 +17598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.50u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.50u"
 			(at 283.21 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -17756,7 +17756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 29.21 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -17840,7 +17840,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 222.25 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -17922,7 +17922,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 245.11 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -18004,7 +18004,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 16.51 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -18086,7 +18086,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 232.41 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -18170,7 +18170,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 285.75 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -18254,7 +18254,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 260.35 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -18335,7 +18335,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 232.41 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -18500,7 +18500,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 260.35 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -18584,7 +18584,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 196.85 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -18666,7 +18666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 41.91 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -18750,7 +18750,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diodes:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 69.85 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -18915,7 +18915,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.75u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.75u"
 			(at 270.51 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -18997,7 +18997,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 54.61 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -19079,7 +19079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switches:Hotswap_Choc_V1_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1_1.00u"
 			(at 67.31 40.64 0)
 			(hide yes)
 			(show_name no)
